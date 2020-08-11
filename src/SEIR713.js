@@ -7,7 +7,6 @@ function SEIR713() {
     "Martin",
     "David",
     "Josh",
-    "Shayan",
     "Branden",
     "Anthony",
     "Margaret",
