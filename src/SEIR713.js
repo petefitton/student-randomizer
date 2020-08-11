@@ -30,7 +30,7 @@ function SEIR713() {
   ]
   function pickStu(e) {
     e.preventDefault()
-    let randNum = Math.round(Math.random() * students.length)
+    let randNum = Math.round(Math.random() * (students.length-1))
     document.querySelector(".randStu").innerText = students[randNum]
     return
   }
