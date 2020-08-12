@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/student-randomizer/static/css/main.60114406.chunk.css",
-    "main.js": "/student-randomizer/static/js/main.30a94663.chunk.js",
-    "main.js.map": "/student-randomizer/static/js/main.30a94663.chunk.js.map",
+    "main.css": "/student-randomizer/static/css/main.e36cd976.chunk.css",
+    "main.js": "/student-randomizer/static/js/main.f09bf51a.chunk.js",
+    "main.js.map": "/student-randomizer/static/js/main.f09bf51a.chunk.js.map",
     "runtime-main.js": "/student-randomizer/static/js/runtime-main.c7dd1f8b.js",
     "runtime-main.js.map": "/student-randomizer/static/js/runtime-main.c7dd1f8b.js.map",
     "static/js/2.7934322f.chunk.js": "/student-randomizer/static/js/2.7934322f.chunk.js",
     "static/js/2.7934322f.chunk.js.map": "/student-randomizer/static/js/2.7934322f.chunk.js.map",
     "index.html": "/student-randomizer/index.html",
-    "precache-manifest.8f02a7854bf5072248cda1edcbd989e6.js": "/student-randomizer/precache-manifest.8f02a7854bf5072248cda1edcbd989e6.js",
+    "precache-manifest.273a6f32172b216e3ce9e8302acbd50e.js": "/student-randomizer/precache-manifest.273a6f32172b216e3ce9e8302acbd50e.js",
     "service-worker.js": "/student-randomizer/service-worker.js",
-    "static/css/main.60114406.chunk.css.map": "/student-randomizer/static/css/main.60114406.chunk.css.map",
+    "static/css/main.e36cd976.chunk.css.map": "/student-randomizer/static/css/main.e36cd976.chunk.css.map",
     "static/js/2.7934322f.chunk.js.LICENSE.txt": "/student-randomizer/static/js/2.7934322f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c7dd1f8b.js",
     "static/js/2.7934322f.chunk.js",
-    "static/css/main.60114406.chunk.css",
-    "static/js/main.30a94663.chunk.js"
+    "static/css/main.e36cd976.chunk.css",
+    "static/js/main.f09bf51a.chunk.js"
   ]
 }
