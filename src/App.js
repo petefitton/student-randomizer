@@ -2,8 +2,7 @@ import React from 'react';
 import {BrowserRouter, Switch, Route, Link} from 'react-router-dom';
 import './style.css';
 import Main from './Main';
-import SEIR713 from './SEIR713';
-import SEI29 from './SEI29';
+import SEICOHORT from './SEICohort';
 
 
 function App() {
@@ -34,7 +33,7 @@ function App() {
     "Philip",
     "Irene"
   ]
-  
+
   let SEI29List = [
     "Chris B",
     "Chris S",
@@ -58,8 +57,8 @@ function App() {
       <BrowserRouter basename="student-randomizer">
         <Link to="/" className="headerLink"><h1>Student Randomizer</h1></Link>
         <Switch>
-          <Route path="/SEIR-713" render={()=><SEIR713 students={SEIR713List} />} />
-          <Route path="/SEI-29" render={()=><SEI29 students={SEI29List} />} />
+          <Route path="/SEIR-713" render={()=><SEICOHORT students={SEIR713List} />} />
+          <Route path="/SEI-29" render={()=><SEICOHORT students={SEI29List} />} />
           <Route path="/" render={() => <Main cohorts={cohorts} />} />
         </Switch>
       </BrowserRouter>
