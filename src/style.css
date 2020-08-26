@@ -15,15 +15,23 @@ ul {
   padding: 0;
 }
 
-li {
+/* li {
   list-style: none;
   text-align: center;
   margin: 10px;
-}
+} */
 
 .buttonContainer {
   width: fit-content;
   margin: 0 auto;
+}
+
+button {
+  margin: 10px;
+}
+
+hr {
+  margin: 0;
 }
 
 .randStu {

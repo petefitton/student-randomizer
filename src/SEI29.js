@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 
-function SEIR713(props) {
+function SEI29(props) {
   let [displayText, setDisplayText] = useState([''])
   let [students, setstudents] = useState(props.students)
 
@@ -43,4 +43,4 @@ function SEIR713(props) {
   )
 }
 
-export default SEIR713;
+export default SEI29;
